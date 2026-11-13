@@ -58,3 +58,27 @@ After extracting water in the Lunar Pyramid, the remaining dehydrated regolith b
 
 *   **ISRU Bio-Polymer Gel:** To prevent electrostatic levitation of the dry dust, we utilize organic byproducts from the habitat's greenhouse (e.g., date pit fibers and agricultural biomass) to synthesize a sticky bio-polymer binding gel. This gel is temporarily sprayed over the exposed dry regolith mounds, binding the micro-particles together safely.
 *   **Staged Processing:** Once temporarily stabilized by the gel or covered by our anti-static Mylar/Biochar sheets, this material is safely transported to the autonomous Glass & Block Factory, where it is permanently fused into high-purity quartz, lunar glass, and construction bricks.
+### 💰 Space Economics & Financial Viability
+A lunar habitat is only sustainable if it makes economic sense. Using our open-source Python financial modeling, we have calculated the exact ROI of the Flashcube 110 architecture compared to traditional Earth-to-Moon hauling ($5,000/kg).
+
+* **Capital Expenditure (CAPEX):** Estimated initial deployment cost of $50 Million for the robotic fleet, Aegis suits, FJH reactor, and ISRU deployment tools.
+* **Operating Cost (OPEX):** Near-zero. Powered by solar/thermal energy, passive gravity, and closed-loop waste recycling.
+* **Return on Investment (ROI):** Achieved in less than 6 months of active water and graphene production.
+* **Total Savings:** Projected to save NASA and commercial partners **$1.57 Billion over 10 years** by eliminating the need to import water, building materials, and radiation shielding from Earth.
+* **Dual-Use Commercialization:** The Aegis ESD puzzle-grid and anti-static fabric are ready for immediate terrestrial commercialization (e.g., JPL cleanrooms, hospital MRI rooms), providing an immediate revenue stream.
+
+---
+
+### 💻 Open-Source Python Simulations
+This repository includes the core Python modules used to model and validate the SIFI Lunar Ecosystem. 
+
+#### 1. `glass_factory_model.py`
+This script simulates the autonomous conversion of stabilized dry regolith tailings into high-purity quartz and glass building blocks. 
+* **Key Functions:** Calculates solar thermal concentration requirements, tracks mass balance (regolith input vs. glass block output), and models the thermodynamic cooling cycles in a vacuum.
+
+#### 2. `app.py`
+The main interactive dashboard and financial modeling tool.
+* **Key Functions:** Provides a user interface to tweak input variables (ice concentration, solar hours, FJH energy discharge) and outputs real-time water yield (aiming for 32.4 tons annually) and ROI projections.
+
+#### 3. `requirements.txt`
+The necessary Python libraries to run our lunar simulations locally.
