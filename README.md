@@ -82,3 +82,4 @@ The main interactive dashboard and financial modeling tool.
 
 #### 3. `requirements.txt`
 The necessary Python libraries to run our lunar simulations locally.
+🌐 **Live Interactive Dashboard:** [Click here to run the Flashcube 110 Simulation](https://flashcube110-lunar-isru-6zxwujzpzqhwcikjtel7px.streamlit.app)
