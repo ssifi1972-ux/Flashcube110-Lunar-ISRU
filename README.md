@@ -1,5 +1,21 @@
 # 🌖 Flashcube 110: The Lunar Pyramid ISRU
 **A Sustainable Lunar Habitat & Zero-Operating-Cost Water Production Architecture**
+---
+
+### 🖼️ Flashcube 110: Project Poster
+<img src="110 flash.jfif" width="100%" alt="Flashcube 110 Poster">
+
+---
+
+### 🎥 Visual Demonstrations
+
+**Phase 1: Project Overview**
+<video src="grade tmr.mp4" width="100%" controls="controls"></video>
+
+**Phase 2: Next Steps & Architecture**
+<video src="next.mp4" width="100%" controls="controls"></video>
+
+---
 
 ### 📖 The Genesis: From a 1990 Childhood Memory to Lunar Graphene Production
 In 1990, as a 13-year-old boy in Algeria, I dismantled a pocket 110 film camera to understand how its "Flashcube" worked. I was fascinated by the physics: a small capacitor accumulating an electrical charge, only to release it in a single, intense millisecond flash of immense energy. 
