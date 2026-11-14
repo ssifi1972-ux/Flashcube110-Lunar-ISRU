@@ -2,6 +2,10 @@
 **A Sustainable Lunar Habitat & Zero-Operating-Cost Water Production Architecture**
 <img src="jadida.jfif" width="100%" alt="Flashcube 110 The Lunar Biodome ISRU">
 
+#### 🏭 Scale-Up Demonstration: Complete 600m² NASA Electronics Laboratory Grounding
+The image below shows the large-scale integration of our Modular Interlocking Biochar Puzzle Grid ESD Mats (100+ mats, covering 600m²) deployed in an advanced NASA Electronics Testing Lab. This visual demonstrates the seamless, continuous, and robust interlocking grounding network achieved through the interconnected bronze grounding rods and battery-like male/female conductive connectors, eliminating the need for epoxy and offering immediate operational grounding for heavy sensitive systems.
+
+<img src="nasa_earth_lab_grid.jpg" width="100%" alt="Scaling up the Modular Biochar Interlocking Grounding Tiles to 600m² inside NASA Lab">
 ---
 
 ### 🖼️ Flashcube 110: Project Poster
