@@ -102,10 +102,18 @@ This script simulates the autonomous conversion of stabilized dry regolith taili
 The main interactive dashboard and financial modeling tool.
 * **Key Functions:** Provides a user interface to tweak input variables (ice concentration, solar hours, FJH energy discharge) and outputs real-time water yield (aiming for 32.4 tons annually) and ROI projections.
 
+We have deployed two interactive tools to demonstrate the feasibility and economics of our lunar infrastructure. Test them live below:
+
+1. **💧 Lunar Water Extraction (ISRU) Calculator**
+   *Simulates the Flashcube 110 mission parameters, ice concentration, and space economics.*
+   👉 [Launch Flashcube 110 Simulation](https://flashcube110-lunar-isru-9bssgpwwoaznf3crbtjeyc.streamlit.app/)
+
+2. **⚡ Advanced ESD Flooring & Infrastructure Estimator**
+   *Calculates geometry, material quantities (Earth vs. Moon), and cost estimations for our anti-static architectural patterns.*
+   👉 [Launch Smart Infrastructure Calculator](https://flashcube110-lunar-isru-6zxwujzpzqhwcikjtel7px.streamlit.app)
+
 #### 3. `requirements.txt`
 The necessary Python libraries to run our lunar simulations locally.
-🌐 **Live Interactive Dashboard:** [Click here to run the Flashcube 110 Simulation](https://flashcube110-lunar-isru-6zxwujzpzqhwcikjtel7px.streamlit.app)
-
 #### ⚡ Terrestrial Grounding Implementation (Standard Earth Setup)
 For commercial Earth applications (hospitals, cleanrooms, and labs), **The Puzzle Grid** ESD mats are wired directly to wall grounding terminals. These terminals are routed to a high-efficiency exterior grounding pit engineered for maximum electrostatic dissipation:
 * **Dimensions:** 40 x 40 x 40 cm excavation.
