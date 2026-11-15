@@ -5,7 +5,7 @@
 #### 🏭 Scale-Up Demonstration: Complete 600m² NASA Electronics Laboratory Grounding
 The image below shows the large-scale integration of our Modular Interlocking Biochar Puzzle Grid ESD Mats (100+ mats, covering 600m²) deployed in an advanced NASA Electronics Testing Lab. This visual demonstrates the seamless, continuous, and robust interlocking grounding network achieved through the interconnected bronze grounding rods and battery-like male/female conductive connectors, eliminating the need for epoxy and offering immediate operational grounding for heavy sensitive systems.
 
-<img src="nasa_earth_lab_grid.jpg" width="100%" alt="Scaling up the Modular Biochar Interlocking Grounding Tiles to 600m² inside NASA Lab">
+<img src="nasa_earth_lab_grid.jpg" width="100%" alt="Scaling up the Modular Biochar Interlocking Grounding Tiles to 600m² inside NASA Lab">ce
 ---
 
 ### 🖼️ Flashcube 110: Project Poster
@@ -24,7 +24,7 @@ The image below shows the large-scale integration of our Modular Interlocking Bi
 ---
 
 ### 📖 The Genesis: From a 1990 Childhood Memory to Lunar Graphene Production
-In 1990, as a 13-year-old boy in Algeria, I dismantled a pocket 110 film camera to understand how its "Flashcube" worked. I was fascinated by the physics: a small capacitor accumulating an electrical charge, only to release it in a single, intense millisecond flash of immense energy. 
+In 1987, as a 15-year-old boy in Algeria, I dismantled a pocket 110 film camera to understand how its "Flashcube" worked. I was fascinated by the physics: a small capacitor accumulating an electrical charge, only to release it in a single, intense millisecond flash of immense energy. 
 
 Three decades later, that childhood curiosity has evolved into the core architecture of this NASA Space Apps project. The same foundational principle—storing and instantly discharging massive electrical energy—is the heart of our lunar **Flash Joule Heating (FJH)** module. Instead of producing a flash of light for a photograph, our "Flashcube 110" lunar reactor discharges intense electrical pulses into lunar plastic waste (96 trash bags per cycle), instantly flashing the carbon into high-purity Graphene. 
 
