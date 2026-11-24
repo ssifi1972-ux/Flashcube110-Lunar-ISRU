@@ -43,7 +43,13 @@ To optimize energy and maximize extraction efficiency in the harsh lunar environ
    * **Thermal & Neutron Sensors:** To accurately map underground ice concentrations before digging.
    * **Localized Microwave Thermal Fracturing:** Instead of venting consumable gases into the lunar vacuum, the excavator uses targeted microwave emitters to induce rapid thermal shock, safely fracturing hard ice veins without mass loss.
    * **Ultrasonic Bucket:** Emits high-frequency vibrations to drastically reduce mechanical friction in 1/6g microgravity. This ensures the excavator can penetrate hard lunar soil smoothly and remain perfectly stable without needing massive, heavy counterweights.
-   2. **The Surface Scraper (Helical Quarry & Bench Builder):** Inspired by terrestrial marble quarry engineering, this autonomous tracked vehicle carves a gentle **5% grade helical ramp** spiraling down the crater wall. This eliminates the need for long mechanical conveyors or railways in low-traction 1/6g gravity, while simultaneously grading **flat, stabilized benches (terraces)** along the crater wall—creating ready-made, naturally radiation-shielded foundations for future lunar habitats.
+  To optimize energy and maximize extraction efficiency in the harsh lunar environment, our architecture deploys a specialized dual-robot fleet rather than a single heavy, high-risk machine:
+
+2. **The Surface Scraper (Helical Quarry & Bench Builder):** Inspired by terrestrial marble quarry engineering, this autonomous tracked vehicle carves a gentle **5% grade helical ramp** spiraling down the crater wall. This eliminates the need for long mechanical conveyors or railways in low-traction 1/6g gravity, while simultaneously grading **flat, stabilized benches (terraces)** along the crater wall—creating ready-made, naturally radiation-shielded foundations for future lunar habitats.
+3. **The Micro-Excavator (Micro-Poclain):** A precision extraction unit reserved for dense, granite-hard ice veins deep within the Permanently Shadowed Regions (PSRs). This highly specialized machine is equipped with:
+   * **Thermal & Neutron Sensors:** To accurately map underground ice concentrations before digging.
+   * **Localized Microwave Thermal Fracturing:** Instead of venting consumable gases into the lunar vacuum, the excavator uses targeted microwave emitters to induce rapid thermal shock, safely fracturing hard ice veins without mass loss.
+   * **Ultrasonic Bucket:** Emits high-frequency vibrations to drastically reduce mechanical friction in 1/6g microgravity. This ensures the excavator can penetrate hard lunar soil smoothly and remain perfectly stable without needing massive, heavy counterweights.
 
 
 ---
