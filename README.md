@@ -43,6 +43,8 @@ To optimize energy and maximize extraction efficiency in the harsh lunar environ
    * **Thermal & Neutron Sensors:** To accurately map underground ice concentrations before digging.
    * **Localized Microwave Thermal Fracturing:** Instead of venting consumable gases into the lunar vacuum, the excavator uses targeted microwave emitters to induce rapid thermal shock, safely fracturing hard ice veins without mass loss.
    * **Ultrasonic Bucket:** Emits high-frequency vibrations to drastically reduce mechanical friction in 1/6g microgravity. This ensures the excavator can penetrate hard lunar soil smoothly and remain perfectly stable without needing massive, heavy counterweights.
+   * 1. **The Surface Scraper (Helical Quarry & Bench Builder):** Inspired by terrestrial marble quarry engineering, this autonomous tracked vehicle carves a gentle **5% grade helical ramp** spiraling down the crater wall. This eliminates the need for long mechanical conveyors or railways in low-traction 1/6g gravity, while simultaneously grading **flat, stabilized benches (terraces)** along the crater wall—creating ready-made, naturally radiation-shielded foundations for future lunar habitats.
+
 
 ---
 
@@ -109,5 +111,4 @@ This repository includes the core Python modules used to model and validate the 
 
 ![Flashcube 110 Lunar Biodome](110%20flash.jfif)
 > **Engineering Revision Note:** *The conceptual poster above illustrates the initial architectural layout. In the finalized engineering specification below, consumable gas injection (`N₂/CO₂`) has been upgraded to **Localized Microwave Thermal Fracturing** to prevent vacuum mass loss, and the terrestrial grounding spike has been adapted to **Equipotential Bonding with a Plasma Contactor** for the dielectric lunar regolith.*
-1. **The Surface Scraper (Helical Quarry & Bench Builder):** Inspired by terrestrial marble quarry engineering, this autonomous tracked vehicle carves a gentle **5% grade helical ramp** spiraling down the crater wall. This eliminates the need for long mechanical conveyors or railways in low-traction 1/6g gravity, while simultaneously grading **flat, stabilized benches (terraces)** along the crater wall—creating ready-made, naturally radiation-shielded foundations for future lunar habitats.
 
