@@ -80,5 +80,8 @@ To effectively dissipate electrostatic charge, the Aegis composite material is e
 ---
 
 ### ♻️ Zero-Hazard Dry Regolith Management (Tailings Stabilization)
-After extracting water in the Lunar Pyramid, the remaining dehydrated regolith becomes highly abrasive, electrostatically charged dust—a major threat to lunar infrastructure. To neutralize this hazard in a pure vacuum without volatile outgassing:
-https://flashcube110-lunar-isru-6zxwujzpzqhwcikjtel7px.streamlit.app/
+After extracting water in the Lunar Pyramid, the remaining dehydrated regolith becomes highly abrasive, electrostatically charged dust—a major threat to lunar infrastructure. To neutralize this hazard in a pure vacuum 
+
+#### 🔗 Test Our Interactive Simulators Live:
+* **1. Lunar Water Extraction (ISRU) Calculator:** [Launch Flashcube 110 Simulation](https://streamlit.app)
+
