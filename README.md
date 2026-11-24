@@ -107,4 +107,6 @@ This repository includes the core Python modules used to model and validate the 
 * **1. Lunar Water Extraction (ISRU) Calculator:** [Launch Flashcube 110 Simulation](https://streamlit.app)
 * **2. Advanced ESD Flooring & Infrastructure Estimator:** [Launch Smart Infrastructure Calculator](https://streamlit.app)
 
+![Flashcube 110 Lunar Biodome](110%20flash.jfif)
+> **Engineering Revision Note:** *The conceptual poster above illustrates the initial architectural layout. In the finalized engineering specification below, consumable gas injection (`N₂/CO₂`) has been upgraded to **Localized Microwave Thermal Fracturing** to prevent vacuum mass loss, and the terrestrial grounding spike has been adapted to **Equipotential Bonding with a Plasma Contactor** for the dielectric lunar regolith.*
 
